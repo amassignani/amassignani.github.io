@@ -1,6 +1,7 @@
   body {
     background:#999;
     font-family: arial;
+    font-weight: bold;
   }
 h1,h2,p,li {
   color: #333;
@@ -11,4 +12,5 @@ a {
 p {
   background:#666;
   color: white;
+  font-style: italic;
   padding: 10px; 10px; 0px; 0px;
