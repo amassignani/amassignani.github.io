@@ -1,13 +1,35 @@
-  body {
-    background:#999;
-    font-family: arial;
-    font-weight: bold;
+header {
+  background: #666;
+  color: white;
+}
+header h1{
+  color: white;
+  margin:0;
+  display: inline;
+  padding: 5px;
+}
+nav ul {
+  margin: 0;
+  display: inline;
+  margin: 0 0 0 15px;
+}
+nav ul li {
+  background: #333;
+  color: white;
+  display: inline-block;
+  list-style-type: none;
+  padding: 5px 15px;
+}
+body {
+  background:#999;
+  font-family: arial;
+  font-weight: bold;
   }
-h1,h2,p,li {
+h1 h2,p,li {
   color: #333;
 }
 a {
-  color: blue;
+  color: white;
 }
 p {
   background:#666;
