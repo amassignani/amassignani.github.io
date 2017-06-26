@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', start)
 function start () {
   doOnce()
   // page()
-  a()
+  button()
 }
 function button () {
   var button = document.getElementsByClassName("button")

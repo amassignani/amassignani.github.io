@@ -12,12 +12,16 @@ background-color: #e8c74e;
 }
 .hero h4 {
   font-weight: normal;
-  color: #999;
+  color: #efbe0e;
 }
 .hero p {
-  color: #efbe0e;
+  color: #86763c;
   font-weight: bold;
 }
+/*.hero p {
+  color: #efbe0e;
+  font-weight: bold;
+}*/
 .divider {
   height: 10px;
   width: 100%;
