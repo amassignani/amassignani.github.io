@@ -39,3 +39,20 @@ i {
   color: #efbe0e;
   margin: 15px;
 }
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+.img {
+  float: center;
+  margin: 10px 30px 10px 30px;
+  border: solid black 3px;
+  padding: 5px;
+}
+.float-img {
+  border: solid black 3px;
+  padding: 2px;
+}
