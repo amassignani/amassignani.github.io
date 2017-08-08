@@ -4,6 +4,25 @@
 .button:visited {
 background-color: #e8c74e;
 }
+.home {
+  background-image: url('../images/bg-phoenix1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 50px;
+}
+.home h2 {
+  font-weight: normal;
+  color: #efbe0e;
+}
+.home p {
+  color: white;
+  font-weight: normal;
+}
+/*.home {
+  padding: 25px;
+  margin: 25px;
+
+}*/
 .hero {
   background-image: url('');
   background-repeat: no-repeat;
@@ -26,6 +45,7 @@ background-color: #e8c74e;
   height: 10px;
   width: 100%;
   background-color: #efbe0e;
+  padding-bottom: 0;
 }
 .hero {
   padding: 25px;
@@ -46,13 +66,17 @@ i {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
   }
-.img {
+.hero-img {
+  background-color: #666;
+  color: white;
   float: center;
-  margin: 10px 30px 10px 30px;
-  border: solid black 3px;
-  padding: 5px;
+  /*margin-left: 20px;*/
+  /*border: solid black 3px;*/
+  padding: 0;
 }
-.float-img {
-  border: solid black 3px;
-  padding: 2px;
+/*.four columns {
+  background-color: #999;
+  color: white*/
+
+
 }
